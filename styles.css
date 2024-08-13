@@ -1,0 +1,28 @@
+* {
+    font-family: Arial, Verdana, sans-serif;
+}
+
+h1, h2, h3 {
+    
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+p {
+    font-size: 14px;
+}
+
+.headerimg {
+    height: 300px;
+}
+
+.thumbnail {
+    height: 100px;
+}
